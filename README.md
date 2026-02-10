@@ -1,5 +1,3 @@
-# 📹 YouTube Downloader
-
 Aplicação web para download de vídeos e áudios do YouTube em diversas qualidades.
 
 ## 🚀 Funcionalidades
@@ -80,3 +78,4 @@ Em caso de problemas:
 
 ---
 
+OBS: Apenas para fins de teste, não será usado comercialmente
